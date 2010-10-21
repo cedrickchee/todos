@@ -1,0 +1,3 @@
+== Welcome to Todos app
+
+This is the first application created using Rails 3 which released not long ago. Todos is an app (could be useful) to make people life lazier. Just joking...
